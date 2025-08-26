@@ -25,7 +25,7 @@ Tailwind CSS – Modern, responsive UI design
 
 🌐 Live Demo
 
-👉 https://app.netlify.com/projects/ambuj-analytics/deploys/
+👉 https://ambuj-analytics.netlify.app/
 
 💡 Contributions
 
